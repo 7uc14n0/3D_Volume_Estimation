@@ -1,0 +1,492 @@
+Experimento 1 - Pacote 1
+
+Iniciando coleta de dados do LiDAR...
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 112 pontos.
+Tempo total de execução: 0.15 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.200 m | Largura: 0.190 m | Altura: 0.500 m
+Voxels ocupados: 111 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.005547 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 260 pontos.
+Tempo total de execução: 0.20 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.270 m | Largura: 0.260 m | Altura: 0.498 m
+Voxels ocupados: 252 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.012548 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 443 pontos.
+Tempo total de execução: 0.25 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.420 m | Largura: 0.300 m | Altura: 0.496 m
+Voxels ocupados: 420 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.020852 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 550 pontos.
+Tempo total de execução: 0.31 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.430 m | Largura: 0.300 m | Altura: 0.497 m
+Voxels ocupados: 502 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.024948 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 625 pontos.
+Tempo total de execução: 0.38 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.450 m | Largura: 0.300 m | Altura: 0.498 m
+Voxels ocupados: 594 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.029570 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 733 pontos.
+Tempo total de execução: 0.45 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.510 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 679 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.033642 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 830 pontos.
+Tempo total de execução: 0.62 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.510 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 768 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.038025 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 879 pontos.
+Tempo total de execução: 0.71 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 820 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.040581 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 914 pontos.
+Tempo total de execução: 0.79 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 865 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.042803 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 957 pontos.
+Tempo total de execução: 0.87 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 907 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.044891 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 991 pontos.
+Tempo total de execução: 0.96 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 918 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.045420 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1026 pontos.
+Tempo total de execução: 1.06 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 955 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.047251 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1049 pontos.
+Tempo total de execução: 1.17 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 978 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.048374 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1077 pontos.
+Tempo total de execução: 1.28 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 1006 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.049769 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1117 pontos.
+Tempo total de execução: 1.38 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 1046 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.051748 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1153 pontos.
+Tempo total de execução: 1.49 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 1077 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.053275 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1181 pontos.
+Tempo total de execução: 1.60 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1095 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.054159 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1210 pontos.
+Tempo total de execução: 1.72 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1119 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.055341 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1244 pontos.
+Tempo total de execução: 1.82 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1154 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.057086 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1260 pontos.
+Tempo total de execução: 1.94 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1170 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.057876 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1278 pontos.
+Tempo total de execução: 2.07 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1186 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.058660 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1300 pontos.
+Tempo total de execução: 2.19 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1202 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.059464 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1318 pontos.
+Tempo total de execução: 2.31 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1219 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.060293 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1341 pontos.
+Tempo total de execução: 2.44 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1239 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.061295 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1357 pontos.
+Tempo total de execução: 2.57 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1253 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.062001 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1371 pontos.
+Tempo total de execução: 2.71 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1264 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.062543 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1384 pontos.
+Tempo total de execução: 2.85 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1277 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.063194 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 1393 pontos.
+Tempo total de execução: 3.00 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1280 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.063348 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/Pacote_1/nuvem_acumulada_1.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/Pacote_1/resultado_volume_1.csv
+Tentativa 1 concluída.
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 109 pontos.
+Tempo total de execução: 0.07 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.190 m | Largura: 0.170 m | Altura: 0.500 m
+Voxels ocupados: 105 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.005250 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 270 pontos.
+Tempo total de execução: 0.12 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.300 m | Largura: 0.260 m | Altura: 0.498 m
+Voxels ocupados: 255 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.012699 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 446 pontos.
+Tempo total de execução: 0.19 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.380 m | Largura: 0.290 m | Altura: 0.497 m
+Voxels ocupados: 427 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.021222 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 534 pontos.
+Tempo total de execução: 0.27 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.420 m | Largura: 0.290 m | Altura: 0.496 m
+Voxels ocupados: 499 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.024727 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 641 pontos.
+Tempo total de execução: 0.37 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.460 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 601 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.029760 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 731 pontos.
+Tempo total de execução: 0.48 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.500 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 679 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.033614 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 800 pontos.
+Tempo total de execução: 0.58 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.510 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 737 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.036479 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 838 pontos.
+Tempo total de execução: 0.68 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 766 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.037902 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 886 pontos.
+Tempo total de execução: 0.80 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.310 m | Altura: 0.495 m
+Voxels ocupados: 808 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.039974 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 930 pontos.
+Tempo total de execução: 0.90 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 846 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.041859 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 994 pontos.
+Tempo total de execução: 1.02 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 902 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.044676 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1031 pontos.
+Tempo total de execução: 1.12 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 941 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.046616 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1068 pontos.
+Tempo total de execução: 1.23 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 975 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.048300 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1103 pontos.
+Tempo total de execução: 1.34 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1021 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.050571 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1140 pontos.
+Tempo total de execução: 1.44 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1054 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.052195 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1161 pontos.
+Tempo total de execução: 1.57 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.520 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1078 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.053383 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1189 pontos.
+Tempo total de execução: 1.68 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.530 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1100 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.054462 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1205 pontos.
+Tempo total de execução: 1.81 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.530 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1121 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.055500 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1226 pontos.
+Tempo total de execução: 1.93 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.330 m | Altura: 0.495 m
+Voxels ocupados: 1127 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.055795 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1250 pontos.
+Tempo total de execução: 2.11 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1161 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.057481 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1272 pontos.
+Tempo total de execução: 2.28 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1180 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.058421 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1297 pontos.
+Tempo total de execução: 2.42 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1254 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.062085 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1316 pontos.
+Tempo total de execução: 2.55 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1270 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.062875 m³
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1334 pontos.
+Tempo total de execução: 2.70 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1289 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.063816 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/Pacote_1/nuvem_acumulada_2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/Pacote_1/resultado_volume_2.csv
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 1346 pontos.
+Tempo total de execução: 12.94 segundos
+
+Dimensões (Voxelização):
+Comprimento: 0.540 m | Largura: 0.320 m | Altura: 0.495 m
+Voxels ocupados: 1302 | Tamanho do voxel: 0.010 m
+Volume estimado: 0.064459 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/Pacote_1/nuvem_acumulada_3.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/Pacote_1/resultado_volume_3.csv
+Tentativa 2 concluída.
+Foram registradas 3 tentativas bem-sucedidas. Encerrando o programa.
