@@ -1,0 +1,387 @@
+Experimento 1 - Pacote 2
+Iniciando coleta de dados do LiDAR...
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 117 pontos.
+Tempo total de execução: 0.19 segundos
+
+Dimensões do objeto:
+Comprimento: 0.228 m | Largura: 0.162 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.026 m² | Altura: 0.193 m
+Volume total: 0.004999 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 254 pontos.
+Tempo total de execução: 0.30 segundos
+
+Dimensões do objeto:
+Comprimento: 0.311 m | Largura: 0.274 m | Altura: 0.196 m
+
+Dimensões (Convex Hull):
+Área base: 0.060 m² | Altura: 0.196 m
+Volume total: 0.011741 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 371 pontos.
+Tempo total de execução: 0.36 segundos
+
+Dimensões do objeto:
+Comprimento: 0.363 m | Largura: 0.309 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.083 m² | Altura: 0.194 m
+Volume total: 0.016200 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 438 pontos.
+Tempo total de execução: 0.45 segundos
+
+Dimensões do objeto:
+Comprimento: 0.365 m | Largura: 0.345 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.090 m² | Altura: 0.193 m
+Volume total: 0.017455 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 560 pontos.
+Tempo total de execução: 0.52 segundos
+
+Dimensões do objeto:
+Comprimento: 0.411 m | Largura: 0.367 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.112 m² | Altura: 0.193 m
+Volume total: 0.021622 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 677 pontos.
+Tempo total de execução: 0.60 segundos
+
+Dimensões do objeto:
+Comprimento: 0.446 m | Largura: 0.376 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.130 m² | Altura: 0.193 m
+Volume total: 0.025063 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 796 pontos.
+Tempo total de execução: 0.67 segundos
+
+Dimensões do objeto:
+Comprimento: 0.466 m | Largura: 0.377 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.144 m² | Altura: 0.193 m
+Volume total: 0.027684 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 874 pontos.
+Tempo total de execução: 0.76 segundos
+
+Dimensões do objeto:
+Comprimento: 0.469 m | Largura: 0.392 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.154 m² | Altura: 0.193 m
+Volume total: 0.029663 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 964 pontos.
+Tempo total de execução: 0.85 segundos
+
+Dimensões do objeto:
+Comprimento: 0.474 m | Largura: 0.393 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.164 m² | Altura: 0.192 m
+Volume total: 0.031536 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1031 pontos.
+Tempo total de execução: 0.95 segundos
+
+Dimensões do objeto:
+Comprimento: 0.472 m | Largura: 0.400 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.167 m² | Altura: 0.192 m
+Volume total: 0.032000 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1139 pontos.
+Tempo total de execução: 1.05 segundos
+
+Dimensões do objeto:
+Comprimento: 0.480 m | Largura: 0.431 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.178 m² | Altura: 0.192 m
+Volume total: 0.034102 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/ConvexHullVolume/Pacote_2/nuvem_acumulada_1_v2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/ConvexHullVolume/Pacote_2/resultado_volume_1_v2.csv
+Tentativa 1 concluída.
+Iniciando detecção do objeto completo com ConvexHull..
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 131 pontos.
+Tempo total de execução: 0.13 segundos
+
+Dimensões do objeto:
+Comprimento: 0.214 m | Largura: 0.183 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.028 m² | Altura: 0.194 m
+Volume total: 0.005494 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 266 pontos.
+Tempo total de execução: 0.19 segundos
+
+Dimensões do objeto:
+Comprimento: 0.283 m | Largura: 0.271 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.057 m² | Altura: 0.194 m
+Volume total: 0.011081 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 345 pontos.
+Tempo total de execução: 0.26 segundos
+
+Dimensões do objeto:
+Comprimento: 0.325 m | Largura: 0.306 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.070 m² | Altura: 0.194 m
+Volume total: 0.013574 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 436 pontos.
+Tempo total de execução: 0.31 segundos
+
+Dimensões do objeto:
+Comprimento: 0.380 m | Largura: 0.328 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.095 m² | Altura: 0.194 m
+Volume total: 0.018358 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 551 pontos.
+Tempo total de execução: 0.41 segundos
+
+Dimensões do objeto:
+Comprimento: 0.407 m | Largura: 0.361 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.117 m² | Altura: 0.193 m
+Volume total: 0.022630 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 659 pontos.
+Tempo total de execução: 0.51 segundos
+
+Dimensões do objeto:
+Comprimento: 0.428 m | Largura: 0.370 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.134 m² | Altura: 0.193 m
+Volume total: 0.025839 m³
+Iniciando detecção do objeto completo com ConvexHull..
+2 clusters encontrados.
+Objeto identificado com 748 pontos.
+Tempo total de execução: 0.61 segundos
+
+Dimensões do objeto:
+Comprimento: 0.443 m | Largura: 0.388 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.143 m² | Altura: 0.193 m
+Volume total: 0.027617 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 911 pontos.
+Tempo total de execução: 0.72 segundos
+
+Dimensões do objeto:
+Comprimento: 0.461 m | Largura: 0.409 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.161 m² | Altura: 0.192 m
+Volume total: 0.030824 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1002 pontos.
+Tempo total de execução: 0.83 segundos
+
+Dimensões do objeto:
+Comprimento: 0.463 m | Largura: 0.419 m | Altura: 0.191 m
+
+Dimensões (Convex Hull):
+Área base: 0.169 m² | Altura: 0.191 m
+Volume total: 0.032296 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1068 pontos.
+Tempo total de execução: 0.94 segundos
+
+Dimensões do objeto:
+Comprimento: 0.463 m | Largura: 0.434 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.173 m² | Altura: 0.192 m
+Volume total: 0.033098 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1141 pontos.
+Tempo total de execução: 1.04 segundos
+
+Dimensões do objeto:
+Comprimento: 0.473 m | Largura: 0.434 m | Altura: 0.190 m
+
+Dimensões (Convex Hull):
+Área base: 0.180 m² | Altura: 0.190 m
+Volume total: 0.034273 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/ConvexHullVolume/Pacote_2/nuvem_acumulada_2_v2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/ConvexHullVolume/Pacote_2/resultado_volume_2_v2.csv
+Tentativa 2 concluída.
+Iniciando detecção do objeto completo com ConvexHull..
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 109 pontos.
+Tempo total de execução: 0.11 segundos
+
+Dimensões do objeto:
+Comprimento: 0.197 m | Largura: 0.180 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.024 m² | Altura: 0.194 m
+Volume total: 0.004692 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 230 pontos.
+Tempo total de execução: 0.20 segundos
+
+Dimensões do objeto:
+Comprimento: 0.296 m | Largura: 0.244 m | Altura: 0.195 m
+
+Dimensões (Convex Hull):
+Área base: 0.051 m² | Altura: 0.195 m
+Volume total: 0.009890 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 354 pontos.
+Tempo total de execução: 0.28 segundos
+
+Dimensões do objeto:
+Comprimento: 0.334 m | Largura: 0.326 m | Altura: 0.194 m
+
+Dimensões (Convex Hull):
+Área base: 0.078 m² | Altura: 0.194 m
+Volume total: 0.015042 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 458 pontos.
+Tempo total de execução: 0.37 segundos
+
+Dimensões do objeto:
+Comprimento: 0.391 m | Largura: 0.347 m | Altura: 0.193 m
+
+Dimensões (Convex Hull):
+Área base: 0.102 m² | Altura: 0.193 m
+Volume total: 0.019732 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 568 pontos.
+Tempo total de execução: 0.44 segundos
+
+Dimensões do objeto:
+Comprimento: 0.411 m | Largura: 0.357 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.118 m² | Altura: 0.192 m
+Volume total: 0.022689 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 672 pontos.
+Tempo total de execução: 0.54 segundos
+
+Dimensões do objeto:
+Comprimento: 0.426 m | Largura: 0.378 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.135 m² | Altura: 0.192 m
+Volume total: 0.025821 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 759 pontos.
+Tempo total de execução: 0.63 segundos
+
+Dimensões do objeto:
+Comprimento: 0.441 m | Largura: 0.391 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.148 m² | Altura: 0.192 m
+Volume total: 0.028337 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 839 pontos.
+Tempo total de execução: 0.75 segundos
+
+Dimensões do objeto:
+Comprimento: 0.459 m | Largura: 0.394 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.154 m² | Altura: 0.192 m
+Volume total: 0.029588 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 924 pontos.
+Tempo total de execução: 0.85 segundos
+
+Dimensões do objeto:
+Comprimento: 0.459 m | Largura: 0.405 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.160 m² | Altura: 0.192 m
+Volume total: 0.030750 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1021 pontos.
+Tempo total de execução: 0.94 segundos
+
+Dimensões do objeto:
+Comprimento: 0.467 m | Largura: 0.424 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.172 m² | Altura: 0.192 m
+Volume total: 0.033094 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 1102 pontos.
+Tempo total de execução: 1.05 segundos
+
+Dimensões do objeto:
+Comprimento: 0.476 m | Largura: 0.434 m | Altura: 0.192 m
+
+Dimensões (Convex Hull):
+Área base: 0.181 m² | Altura: 0.192 m
+Volume total: 0.034646 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/ConvexHullVolume/Pacote_2/nuvem_acumulada_3_v2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/ConvexHullVolume/Pacote_2/resultado_volume_3_v2.csv
+Tentativa 3 concluída.
+Foram registradas 3 tentativas bem-sucedidas. Encerrando o programa.

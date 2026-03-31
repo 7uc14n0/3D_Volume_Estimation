@@ -1,0 +1,127 @@
+Experimento 1 - Pacote 5 - Convex Hull
+
+Iniciando coleta de dados do LiDAR...
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 187 pontos.
+Tempo total de execução: 0.35 segundos
+
+Dimensões do objeto:
+Comprimento: 0.239 m | Largura: 0.217 m | Altura: 0.342 m
+
+Dimensões (Convex Hull):
+Área base: 0.041 m² | Altura: 0.342 m
+Volume total: 0.013944 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 332 pontos.
+Tempo total de execução: 0.53 segundos
+
+Dimensões do objeto:
+Comprimento: 0.314 m | Largura: 0.300 m | Altura: 0.344 m
+
+Dimensões (Convex Hull):
+Área base: 0.076 m² | Altura: 0.344 m
+Volume total: 0.026182 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 412 pontos.
+Tempo total de execução: 0.63 segundos
+
+Dimensões do objeto:
+Comprimento: 0.321 m | Largura: 0.299 m | Altura: 0.345 m
+
+Dimensões (Convex Hull):
+Área base: 0.083 m² | Altura: 0.345 m
+Volume total: 0.028609 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 473 pontos.
+Tempo total de execução: 0.73 segundos
+
+Dimensões do objeto:
+Comprimento: 0.332 m | Largura: 0.314 m | Altura: 0.344 m
+
+Dimensões (Convex Hull):
+Área base: 0.089 m² | Altura: 0.344 m
+Volume total: 0.030604 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 527 pontos.
+Tempo total de execução: 0.86 segundos
+
+Dimensões do objeto:
+Comprimento: 0.363 m | Largura: 0.314 m | Altura: 0.344 m
+
+Dimensões (Convex Hull):
+Área base: 0.096 m² | Altura: 0.344 m
+Volume total: 0.033214 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/ConvexHullVolume/Pacote_5_T1/nuvem_acumulada_1.pcd'.
+Resultados salvos em: /home/luciano/PCDs/ConvexHullVolume/Pacote_5_T1/resultado_volume_1.csv
+Tentativa 1 concluída.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 210 pontos.
+Tempo total de execução: 0.10 segundos
+
+Dimensões do objeto:
+Comprimento: 0.253 m | Largura: 0.232 m | Altura: 0.344 m
+
+Dimensões (Convex Hull):
+Área base: 0.045 m² | Altura: 0.344 m
+Volume total: 0.015628 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 323 pontos.
+Tempo total de execução: 0.21 segundos
+
+Dimensões do objeto:
+Comprimento: 0.303 m | Largura: 0.275 m | Altura: 0.344 m
+
+Dimensões (Convex Hull):
+Área base: 0.069 m² | Altura: 0.344 m
+Volume total: 0.023609 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 419 pontos.
+Tempo total de execução: 0.29 segundos
+
+Dimensões do objeto:
+Comprimento: 0.338 m | Largura: 0.303 m | Altura: 0.345 m
+
+Dimensões (Convex Hull):
+Área base: 0.082 m² | Altura: 0.345 m
+Volume total: 0.028261 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 470 pontos.
+Tempo total de execução: 0.39 segundos
+
+Dimensões do objeto:
+Comprimento: 0.340 m | Largura: 0.308 m | Altura: 0.345 m
+
+Dimensões (Convex Hull):
+Área base: 0.085 m² | Altura: 0.345 m
+Volume total: 0.029163 m³
+Iniciando detecção do objeto completo com ConvexHull..
+1 clusters encontrados.
+Objeto identificado com 533 pontos.
+Tempo total de execução: 0.48 segundos
+
+Dimensões do objeto:
+Comprimento: 0.359 m | Largura: 0.314 m | Altura: 0.345 m
+
+Dimensões (Convex Hull):
+Área base: 0.097 m² | Altura: 0.345 m
+Volume total: 0.033563 m³
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/ConvexHullVolume/Pacote_5_T1/nuvem_acumulada_2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/ConvexHullVolume/Pacote_5_T1/resultado_volume_2.csv
+Tentativa 2 concluída.
