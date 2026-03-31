@@ -1,0 +1,59 @@
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 5492 pontos.
+Tempo total de execução: 19.66 segundos
+[TOPO] Volume estimado: 0.116337 m³
+[FACE] Volume estimado: 0.121282 m³
+[MÉDIA] Volume final estimado: 0.118810 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/nuvem_acumulada_1.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/resultado_volume.csv
+
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 6274 pontos.
+Tempo total de execução: 25.73 segundos
+[TOPO] Volume estimado: 0.118385 m³
+[FACE] Volume estimado: 0.123757 m³
+[MÉDIA] Volume final estimado: 0.121071 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/nuvem_acumulada_2.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/resultado_volume.csv
+
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 8180 pontos.
+Tempo total de execução: 42.61 segundos
+[TOPO] Volume estimado: 0.122985 m³
+[FACE] Volume estimado: 0.130831 m³
+[MÉDIA] Volume final estimado: 0.126908 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/nuvem_acumulada_3.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/resultado_volume.csv
+
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 9300 pontos.
+Tempo total de execução: 53.49 segundos
+[TOPO] Volume estimado: 0.124418 m³
+[FACE] Volume estimado: 0.129309 m³
+[MÉDIA] Volume final estimado: 0.126864 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/nuvem_acumulada_4.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/resultado_volume.csv
+
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 7359 pontos.
+Tempo total de execução: 37.97 segundos
+[TOPO] Volume estimado: 0.120903 m³
+[FACE] Volume estimado: 0.118762 m³
+[MÉDIA] Volume final estimado: 0.119832 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/nuvem_acumulada_5.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_7_P2/resultado_volume.csv
