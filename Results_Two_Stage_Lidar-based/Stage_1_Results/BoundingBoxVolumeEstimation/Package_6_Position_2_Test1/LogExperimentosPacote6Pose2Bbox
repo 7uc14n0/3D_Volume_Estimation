@@ -1,0 +1,281 @@
+Iniciando coleta de dados do LiDAR...
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 126 pontos.
+Volume estimado do OBB: 0.001 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.205 m
+ Largura:     0.197 m
+ Altura:      0.276 m
+ Volume:      0.011166 m³
+
+Tempo total de execução: 0.22 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 236 pontos.
+Volume estimado do OBB: 0.002 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.272 m
+ Largura:     0.257 m
+ Altura:      0.276 m
+ Volume:      0.019268 m³
+
+Tempo total de execução: 0.27 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 446 pontos.
+Volume estimado do OBB: 0.006 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.362 m
+ Largura:     0.350 m
+ Altura:      0.276 m
+ Volume:      0.034922 m³
+
+Tempo total de execução: 0.32 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 536 pontos.
+Volume estimado do OBB: 0.008 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.411 m
+ Largura:     0.387 m
+ Altura:      0.276 m
+ Volume:      0.043936 m³
+
+Tempo total de execução: 0.39 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 657 pontos.
+Volume estimado do OBB: 0.011 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.440 m
+ Largura:     0.423 m
+ Altura:      0.276 m
+ Volume:      0.051440 m³
+
+Tempo total de execução: 0.45 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 811 pontos.
+Volume estimado do OBB: 0.014 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.517 m
+ Largura:     0.488 m
+ Altura:      0.277 m
+ Volume:      0.069898 m³
+
+Tempo total de execução: 0.56 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 911 pontos.
+Volume estimado do OBB: 0.017 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.553 m
+ Largura:     0.511 m
+ Altura:      0.278 m
+ Volume:      0.078533 m³
+
+Tempo total de execução: 0.64 segundos
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/nuvem_acumulada_1.pcd'.
+OBB salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/obb_1.ply'.
+Resultados salvos em: /home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/resultado_volume_1.csv
+Tentativa 1 concluída.
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 138 pontos.
+Volume estimado do OBB: 0.001 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.234 m
+ Largura:     0.182 m
+ Altura:      0.275 m
+ Volume:      0.011693 m³
+
+Tempo total de execução: 0.11 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 322 pontos.
+Volume estimado do OBB: 0.003 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.321 m
+ Largura:     0.319 m
+ Altura:      0.275 m
+ Volume:      0.028226 m³
+
+Tempo total de execução: 0.22 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 476 pontos.
+Volume estimado do OBB: 0.005 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.368 m
+ Largura:     0.356 m
+ Altura:      0.275 m
+ Volume:      0.036019 m³
+
+Tempo total de execução: 0.30 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 529 pontos.
+Volume estimado do OBB: 0.007 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.378 m
+ Largura:     0.370 m
+ Altura:      0.276 m
+ Volume:      0.038587 m³
+
+Tempo total de execução: 0.41 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 659 pontos.
+Volume estimado do OBB: 0.011 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.444 m
+ Largura:     0.429 m
+ Altura:      0.275 m
+ Volume:      0.052451 m³
+
+Tempo total de execução: 0.58 segundos
+Iniciando detecção do objeto completo com bounding box...
+2 clusters encontrados.
+Objeto identificado com 806 pontos.
+Volume estimado do OBB: 0.013 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.475 m
+ Largura:     0.469 m
+ Altura:      0.277 m
+ Volume:      0.061703 m³
+
+Tempo total de execução: 0.65 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 948 pontos.
+Volume estimado do OBB: 0.018 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.554 m
+ Largura:     0.524 m
+ Altura:      0.276 m
+ Volume:      0.079966 m³
+
+Tempo total de execução: 0.74 segundos
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/nuvem_acumulada_2.pcd'.
+OBB salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/obb_2.ply'.
+Resultados salvos em: /home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/resultado_volume_2.csv
+Tentativa 2 concluída.
+Iniciando detecção do objeto completo com bounding box...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 279 pontos.
+Volume estimado do OBB: 0.003 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.321 m
+ Largura:     0.277 m
+ Altura:      0.276 m
+ Volume:      0.024474 m³
+
+Tempo total de execução: 0.23 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 411 pontos.
+Volume estimado do OBB: 0.006 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.365 m
+ Largura:     0.353 m
+ Altura:      0.275 m
+ Volume:      0.035480 m³
+
+Tempo total de execução: 0.31 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 583 pontos.
+Volume estimado do OBB: 0.008 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.416 m
+ Largura:     0.410 m
+ Altura:      0.276 m
+ Volume:      0.047195 m³
+
+Tempo total de execução: 0.41 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 740 pontos.
+Volume estimado do OBB: 0.011 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.467 m
+ Largura:     0.451 m
+ Altura:      0.276 m
+ Volume:      0.058224 m³
+
+Tempo total de execução: 0.50 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 784 pontos.
+Volume estimado do OBB: 0.014 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.539 m
+ Largura:     0.485 m
+ Altura:      0.277 m
+ Volume:      0.072344 m³
+
+Tempo total de execução: 0.61 segundos
+Iniciando detecção do objeto completo com bounding box...
+1 clusters encontrados.
+Objeto identificado com 890 pontos.
+Volume estimado do OBB: 0.015 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.522 m
+ Largura:     0.513 m
+ Altura:      0.277 m
+ Volume:      0.074251 m³
+
+Tempo total de execução: 0.72 segundos
+Iniciando detecção do objeto completo com bounding box...
+2 clusters encontrados.
+Objeto identificado com 974 pontos.
+Volume estimado do OBB: 0.016 m³
+
+Dimensões do objeto identificado:
+ Comprimento: 0.528 m
+ Largura:     0.522 m
+ Altura:      0.278 m
+ Volume:      0.076774 m³
+
+Tempo total de execução: 0.82 segundos
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/nuvem_acumulada_3.pcd'.
+OBB salva em '/home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/obb_3.ply'.
+Resultados salvos em: /home/luciano/PCDs/BoundingBoxVolume/Pacote_6_P2_T1/resultado_volume_3.csv
+Tentativa 3 concluída.
+Foram registradas 3 tentativas bem-sucedidas. Encerrando o programa.
