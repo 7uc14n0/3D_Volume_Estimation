@@ -1,0 +1,11 @@
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Objeto identificado com 10175 pontos.
+Tempo total de execução: 58.44 segundos
+[TOPO] Volume estimado: 0.109984 m³
+[FACE] Volume estimado: 0.146545 m³
+[MÉDIA] Volume final estimado: 0.128265 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa bem-sucedida! Volume dentro do padrão.
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_9/nuvem_acumulada_1.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestesRealTime/Pacote_9/resultado_volume.csv
