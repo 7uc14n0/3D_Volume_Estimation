@@ -1,0 +1,4 @@
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestes/Pacote_9_T2/nuvem_acumulada_8.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestes/Pacote_9_T2/resultado_volume_8.csv
+Tentativa 10 concluída.
+Foram registradas 8 tentativas bem-sucedidas. Encerrando o programa.

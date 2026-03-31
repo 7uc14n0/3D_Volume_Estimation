@@ -1,0 +1,1020 @@
+Nuvem de pontos acumulada salva em '/home/luciano/PCDs/Voxelization/OutrosTestes/Pacote_7_T2/nuvem_acumulada_1.pcd'.
+Resultados salvos em: /home/luciano/PCDs/Voxelization/OutrosTestes/Pacote_7_T2/resultado_volume_1.csv
+Tentativa 1 concluída.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+1 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+7 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 515 pontos.
+Tempo total de execução: 2.41 segundos
+[TOPO] Volume estimado: 0.004503 m³
+[FACE] Volume estimado: 0.006220 m³
+[MÉDIA] Volume final estimado: 0.005362 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 569 pontos.
+Tempo total de execução: 2.52 segundos
+[TOPO] Volume estimado: 0.004853 m³
+[FACE] Volume estimado: 0.006529 m³
+[MÉDIA] Volume final estimado: 0.005691 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 598 pontos.
+Tempo total de execução: 2.73 segundos
+[TOPO] Volume estimado: 0.005225 m³
+[FACE] Volume estimado: 0.006605 m³
+[MÉDIA] Volume final estimado: 0.005915 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 649 pontos.
+Tempo total de execução: 2.85 segundos
+[TOPO] Volume estimado: 0.006988 m³
+[FACE] Volume estimado: 0.008043 m³
+[MÉDIA] Volume final estimado: 0.007515 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 778 pontos.
+Tempo total de execução: 2.98 segundos
+[TOPO] Volume estimado: 0.010161 m³
+[FACE] Volume estimado: 0.012850 m³
+[MÉDIA] Volume final estimado: 0.011506 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 808 pontos.
+Tempo total de execução: 3.11 segundos
+[TOPO] Volume estimado: 0.010355 m³
+[FACE] Volume estimado: 0.012334 m³
+[MÉDIA] Volume final estimado: 0.011344 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1004 pontos.
+Tempo total de execução: 3.25 segundos
+[TOPO] Volume estimado: 0.011855 m³
+[FACE] Volume estimado: 0.015340 m³
+[MÉDIA] Volume final estimado: 0.013598 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1669 pontos.
+Tempo total de execução: 3.39 segundos
+[TOPO] Volume estimado: 0.049560 m³
+[FACE] Volume estimado: 0.038757 m³
+[MÉDIA] Volume final estimado: 0.044158 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 1827 pontos.
+Tempo total de execução: 3.56 segundos
+[TOPO] Volume estimado: 0.054567 m³
+[FACE] Volume estimado: 0.042255 m³
+[MÉDIA] Volume final estimado: 0.048411 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 1878 pontos.
+Tempo total de execução: 3.72 segundos
+[TOPO] Volume estimado: 0.055008 m³
+[FACE] Volume estimado: 0.042598 m³
+[MÉDIA] Volume final estimado: 0.048803 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 1952 pontos.
+Tempo total de execução: 3.90 segundos
+[TOPO] Volume estimado: 0.056353 m³
+[FACE] Volume estimado: 0.044310 m³
+[MÉDIA] Volume final estimado: 0.050331 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 2025 pontos.
+Tempo total de execução: 4.08 segundos
+[TOPO] Volume estimado: 0.065439 m³
+[FACE] Volume estimado: 0.051226 m³
+[MÉDIA] Volume final estimado: 0.058333 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 2116 pontos.
+Tempo total de execução: 4.26 segundos
+[TOPO] Volume estimado: 0.064164 m³
+[FACE] Volume estimado: 0.051884 m³
+[MÉDIA] Volume final estimado: 0.058024 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2194 pontos.
+Tempo total de execução: 4.45 segundos
+[TOPO] Volume estimado: 0.063880 m³
+[FACE] Volume estimado: 0.053221 m³
+[MÉDIA] Volume final estimado: 0.058551 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2264 pontos.
+Tempo total de execução: 4.63 segundos
+[TOPO] Volume estimado: 0.068976 m³
+[FACE] Volume estimado: 0.054367 m³
+[MÉDIA] Volume final estimado: 0.061672 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2334 pontos.
+Tempo total de execução: 4.84 segundos
+[TOPO] Volume estimado: 0.069487 m³
+[FACE] Volume estimado: 0.055302 m³
+[MÉDIA] Volume final estimado: 0.062395 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2410 pontos.
+Tempo total de execução: 5.04 segundos
+[TOPO] Volume estimado: 0.070624 m³
+[FACE] Volume estimado: 0.056155 m³
+[MÉDIA] Volume final estimado: 0.063390 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2470 pontos.
+Tempo total de execução: 5.26 segundos
+[TOPO] Volume estimado: 0.070946 m³
+[FACE] Volume estimado: 0.056401 m³
+[MÉDIA] Volume final estimado: 0.063674 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2532 pontos.
+Tempo total de execução: 5.47 segundos
+[TOPO] Volume estimado: 0.071294 m³
+[FACE] Volume estimado: 0.063470 m³
+[MÉDIA] Volume final estimado: 0.067382 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2603 pontos.
+Tempo total de execução: 5.70 segundos
+[TOPO] Volume estimado: 0.071427 m³
+[FACE] Volume estimado: 0.063969 m³
+[MÉDIA] Volume final estimado: 0.067698 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2659 pontos.
+Tempo total de execução: 5.92 segundos
+[TOPO] Volume estimado: 0.071615 m³
+[FACE] Volume estimado: 0.064454 m³
+[MÉDIA] Volume final estimado: 0.068035 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2724 pontos.
+Tempo total de execução: 6.15 segundos
+[TOPO] Volume estimado: 0.074371 m³
+[FACE] Volume estimado: 0.065313 m³
+[MÉDIA] Volume final estimado: 0.069842 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2826 pontos.
+Tempo total de execução: 6.40 segundos
+[TOPO] Volume estimado: 0.074405 m³
+[FACE] Volume estimado: 0.066879 m³
+[MÉDIA] Volume final estimado: 0.070642 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2895 pontos.
+Tempo total de execução: 6.66 segundos
+[TOPO] Volume estimado: 0.074227 m³
+[FACE] Volume estimado: 0.068017 m³
+[MÉDIA] Volume final estimado: 0.071122 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2952 pontos.
+Tempo total de execução: 6.92 segundos
+[TOPO] Volume estimado: 0.074697 m³
+[FACE] Volume estimado: 0.068859 m³
+[MÉDIA] Volume final estimado: 0.071778 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3017 pontos.
+Tempo total de execução: 7.18 segundos
+[TOPO] Volume estimado: 0.074879 m³
+[FACE] Volume estimado: 0.068984 m³
+[MÉDIA] Volume final estimado: 0.071931 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3073 pontos.
+Tempo total de execução: 7.45 segundos
+[TOPO] Volume estimado: 0.074990 m³
+[FACE] Volume estimado: 0.069357 m³
+[MÉDIA] Volume final estimado: 0.072174 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3154 pontos.
+Tempo total de execução: 7.72 segundos
+[TOPO] Volume estimado: 0.077285 m³
+[FACE] Volume estimado: 0.070369 m³
+[MÉDIA] Volume final estimado: 0.073827 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3215 pontos.
+Tempo total de execução: 8.01 segundos
+[TOPO] Volume estimado: 0.077328 m³
+[FACE] Volume estimado: 0.070886 m³
+[MÉDIA] Volume final estimado: 0.074107 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 3295 pontos.
+Tempo total de execução: 8.29 segundos
+[TOPO] Volume estimado: 0.077596 m³
+[FACE] Volume estimado: 0.070860 m³
+[MÉDIA] Volume final estimado: 0.074228 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 3362 pontos.
+Tempo total de execução: 8.58 segundos
+[TOPO] Volume estimado: 0.077866 m³
+[FACE] Volume estimado: 0.070971 m³
+[MÉDIA] Volume final estimado: 0.074418 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 3428 pontos.
+Tempo total de execução: 8.88 segundos
+[TOPO] Volume estimado: 0.078432 m³
+[FACE] Volume estimado: 0.071401 m³
+[MÉDIA] Volume final estimado: 0.074917 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 3496 pontos.
+Tempo total de execução: 9.18 segundos
+[TOPO] Volume estimado: 0.078672 m³
+[FACE] Volume estimado: 0.071993 m³
+[MÉDIA] Volume final estimado: 0.075333 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 3587 pontos.
+Tempo total de execução: 9.49 segundos
+[TOPO] Volume estimado: 0.078938 m³
+[FACE] Volume estimado: 0.072217 m³
+[MÉDIA] Volume final estimado: 0.075577 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 3679 pontos.
+Tempo total de execução: 9.81 segundos
+[TOPO] Volume estimado: 0.083479 m³
+[FACE] Volume estimado: 0.079031 m³
+[MÉDIA] Volume final estimado: 0.081255 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 3748 pontos.
+Tempo total de execução: 10.12 segundos
+[TOPO] Volume estimado: 0.084557 m³
+[FACE] Volume estimado: 0.087195 m³
+[MÉDIA] Volume final estimado: 0.085876 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 3846 pontos.
+Tempo total de execução: 10.45 segundos
+[TOPO] Volume estimado: 0.086336 m³
+[FACE] Volume estimado: 0.087165 m³
+[MÉDIA] Volume final estimado: 0.086750 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 3935 pontos.
+Tempo total de execução: 10.79 segundos
+[TOPO] Volume estimado: 0.087094 m³
+[FACE] Volume estimado: 0.087627 m³
+[MÉDIA] Volume final estimado: 0.087361 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 4015 pontos.
+Tempo total de execução: 11.13 segundos
+[TOPO] Volume estimado: 0.089670 m³
+[FACE] Volume estimado: 0.095058 m³
+[MÉDIA] Volume final estimado: 0.092364 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 4089 pontos.
+Tempo total de execução: 11.49 segundos
+[TOPO] Volume estimado: 0.092212 m³
+[FACE] Volume estimado: 0.094706 m³
+[MÉDIA] Volume final estimado: 0.093459 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 4168 pontos.
+Tempo total de execução: 11.84 segundos
+[TOPO] Volume estimado: 0.092428 m³
+[FACE] Volume estimado: 0.095161 m³
+[MÉDIA] Volume final estimado: 0.093794 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4228 pontos.
+Tempo total de execução: 12.19 segundos
+[TOPO] Volume estimado: 0.093508 m³
+[FACE] Volume estimado: 0.095190 m³
+[MÉDIA] Volume final estimado: 0.094349 m³
+Iniciando detecção do objeto completo com Voxelization...
+7 clusters encontrados.
+Objeto identificado com 4300 pontos.
+Tempo total de execução: 12.57 segundos
+[TOPO] Volume estimado: 0.095231 m³
+[FACE] Volume estimado: 0.094654 m³
+[MÉDIA] Volume final estimado: 0.094942 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4391 pontos.
+Tempo total de execução: 12.95 segundos
+[TOPO] Volume estimado: 0.098364 m³
+[FACE] Volume estimado: 0.101887 m³
+[MÉDIA] Volume final estimado: 0.100126 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4447 pontos.
+Tempo total de execução: 13.33 segundos
+[TOPO] Volume estimado: 0.098616 m³
+[FACE] Volume estimado: 0.101795 m³
+[MÉDIA] Volume final estimado: 0.100205 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4553 pontos.
+Tempo total de execução: 13.71 segundos
+[TOPO] Volume estimado: 0.101340 m³
+[FACE] Volume estimado: 0.117104 m³
+[MÉDIA] Volume final estimado: 0.109222 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4639 pontos.
+Tempo total de execução: 14.11 segundos
+[TOPO] Volume estimado: 0.101866 m³
+[FACE] Volume estimado: 0.117030 m³
+[MÉDIA] Volume final estimado: 0.109448 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4738 pontos.
+Tempo total de execução: 14.57 segundos
+[TOPO] Volume estimado: 0.106213 m³
+[FACE] Volume estimado: 0.116005 m³
+[MÉDIA] Volume final estimado: 0.111109 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4793 pontos.
+Tempo total de execução: 14.97 segundos
+[TOPO] Volume estimado: 0.106626 m³
+[FACE] Volume estimado: 0.115510 m³
+[MÉDIA] Volume final estimado: 0.111068 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4880 pontos.
+Tempo total de execução: 15.39 segundos
+[TOPO] Volume estimado: 0.107071 m³
+[FACE] Volume estimado: 0.116271 m³
+[MÉDIA] Volume final estimado: 0.111671 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 4980 pontos.
+Tempo total de execução: 15.82 segundos
+[TOPO] Volume estimado: 0.112532 m³
+[FACE] Volume estimado: 0.123283 m³
+[MÉDIA] Volume final estimado: 0.117908 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 5040 pontos.
+Tempo total de execução: 16.25 segundos
+[TOPO] Volume estimado: 0.113666 m³
+[FACE] Volume estimado: 0.123587 m³
+[MÉDIA] Volume final estimado: 0.118626 m³
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Objeto identificado com 5099 pontos.
+Tempo total de execução: 16.68 segundos
+[TOPO] Volume estimado: 0.114222 m³
+[FACE] Volume estimado: 0.123485 m³
+[MÉDIA] Volume final estimado: 0.118853 m³
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Objeto identificado com 5178 pontos.
+Tempo total de execução: 17.12 segundos
+[TOPO] Volume estimado: 0.115944 m³
+[FACE] Volume estimado: 0.123447 m³
+[MÉDIA] Volume final estimado: 0.119695 m³
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Objeto identificado com 5259 pontos.
+Tempo total de execução: 17.56 segundos
+[TOPO] Volume estimado: 0.119480 m³
+[FACE] Volume estimado: 0.122852 m³
+[MÉDIA] Volume final estimado: 0.121166 m³
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Objeto identificado com 5344 pontos.
+Tempo total de execução: 18.01 segundos
+[TOPO] Volume estimado: 0.122797 m³
+[FACE] Volume estimado: 0.122385 m³
+[MÉDIA] Volume final estimado: 0.122591 m³
+Iniciando detecção do objeto completo com Voxelization...
+6 clusters encontrados.
+Objeto identificado com 5400 pontos.
+Tempo total de execução: 18.47 segundos
+[TOPO] Volume estimado: 0.123173 m³
+[FACE] Volume estimado: 0.122356 m³
+[MÉDIA] Volume final estimado: 0.122765 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 5498 pontos.
+Tempo total de execução: 18.93 segundos
+[TOPO] Volume estimado: 0.123894 m³
+[FACE] Volume estimado: 0.122673 m³
+[MÉDIA] Volume final estimado: 0.123283 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 5584 pontos.
+Tempo total de execução: 19.40 segundos
+[TOPO] Volume estimado: 0.124859 m³
+[FACE] Volume estimado: 0.122698 m³
+[MÉDIA] Volume final estimado: 0.123778 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 5668 pontos.
+Tempo total de execução: 19.88 segundos
+[TOPO] Volume estimado: 0.125367 m³
+[FACE] Volume estimado: 0.122830 m³
+[MÉDIA] Volume final estimado: 0.124098 m³
+Iniciando detecção do objeto completo com Voxelization...
+10 clusters encontrados.
+Objeto identificado com 5750 pontos.
+Tempo total de execução: 20.38 segundos
+[TOPO] Volume estimado: 0.126939 m³
+[FACE] Volume estimado: 0.123735 m³
+[MÉDIA] Volume final estimado: 0.125337 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 5840 pontos.
+Tempo total de execução: 20.87 segundos
+[TOPO] Volume estimado: 0.129387 m³
+[FACE] Volume estimado: 0.123352 m³
+[MÉDIA] Volume final estimado: 0.126369 m³
+Iniciando detecção do objeto completo com Voxelization...
+10 clusters encontrados.
+Objeto identificado com 5901 pontos.
+Tempo total de execução: 21.36 segundos
+[TOPO] Volume estimado: 0.129718 m³
+[FACE] Volume estimado: 0.123388 m³
+[MÉDIA] Volume final estimado: 0.126553 m³
+Iniciando detecção do objeto completo com Voxelization...
+11 clusters encontrados.
+Objeto identificado com 5972 pontos.
+Tempo total de execução: 21.86 segundos
+[TOPO] Volume estimado: 0.130676 m³
+[FACE] Volume estimado: 0.123329 m³
+[MÉDIA] Volume final estimado: 0.127003 m³
+Iniciando detecção do objeto completo com Voxelization...
+11 clusters encontrados.
+Objeto identificado com 6081 pontos.
+Tempo total de execução: 22.36 segundos
+[TOPO] Volume estimado: 0.133498 m³
+[FACE] Volume estimado: 0.122654 m³
+[MÉDIA] Volume final estimado: 0.128076 m³
+Iniciando detecção do objeto completo com Voxelization...
+11 clusters encontrados.
+Objeto identificado com 6158 pontos.
+Tempo total de execução: 22.88 segundos
+[TOPO] Volume estimado: 0.135297 m³
+[FACE] Volume estimado: 0.122525 m³
+[MÉDIA] Volume final estimado: 0.128911 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 6256 pontos.
+Tempo total de execução: 23.40 segundos
+[TOPO] Volume estimado: 0.140034 m³
+[FACE] Volume estimado: 0.121728 m³
+[MÉDIA] Volume final estimado: 0.130881 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 6314 pontos.
+Tempo total de execução: 23.92 segundos
+[TOPO] Volume estimado: 0.140543 m³
+[FACE] Volume estimado: 0.121779 m³
+[MÉDIA] Volume final estimado: 0.131161 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6383 pontos.
+Tempo total de execução: 24.45 segundos
+[TOPO] Volume estimado: 0.141149 m³
+[FACE] Volume estimado: 0.121667 m³
+[MÉDIA] Volume final estimado: 0.131408 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6440 pontos.
+Tempo total de execução: 24.99 segundos
+[TOPO] Volume estimado: 0.141217 m³
+[FACE] Volume estimado: 0.121586 m³
+[MÉDIA] Volume final estimado: 0.131402 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6525 pontos.
+Tempo total de execução: 25.53 segundos
+[TOPO] Volume estimado: 0.141399 m³
+[FACE] Volume estimado: 0.121590 m³
+[MÉDIA] Volume final estimado: 0.131495 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6585 pontos.
+Tempo total de execução: 26.09 segundos
+[TOPO] Volume estimado: 0.141695 m³
+[FACE] Volume estimado: 0.121647 m³
+[MÉDIA] Volume final estimado: 0.131671 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6654 pontos.
+Tempo total de execução: 26.66 segundos
+[TOPO] Volume estimado: 0.142831 m³
+[FACE] Volume estimado: 0.121364 m³
+[MÉDIA] Volume final estimado: 0.132098 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6717 pontos.
+Tempo total de execução: 27.23 segundos
+[TOPO] Volume estimado: 0.143388 m³
+[FACE] Volume estimado: 0.121483 m³
+[MÉDIA] Volume final estimado: 0.132435 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6780 pontos.
+Tempo total de execução: 27.82 segundos
+[TOPO] Volume estimado: 0.143230 m³
+[FACE] Volume estimado: 0.121793 m³
+[MÉDIA] Volume final estimado: 0.132512 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6843 pontos.
+Tempo total de execução: 28.41 segundos
+[TOPO] Volume estimado: 0.143152 m³
+[FACE] Volume estimado: 0.121919 m³
+[MÉDIA] Volume final estimado: 0.132535 m³
+Iniciando detecção do objeto completo com Voxelization...
+7 clusters encontrados.
+Objeto identificado com 6931 pontos.
+Tempo total de execução: 29.01 segundos
+[TOPO] Volume estimado: 0.143521 m³
+[FACE] Volume estimado: 0.121860 m³
+[MÉDIA] Volume final estimado: 0.132691 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 6994 pontos.
+Tempo total de execução: 29.61 segundos
+[TOPO] Volume estimado: 0.143790 m³
+[FACE] Volume estimado: 0.121873 m³
+[MÉDIA] Volume final estimado: 0.132831 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7068 pontos.
+Tempo total de execução: 30.23 segundos
+[TOPO] Volume estimado: 0.145608 m³
+[FACE] Volume estimado: 0.129567 m³
+[MÉDIA] Volume final estimado: 0.137588 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7125 pontos.
+Tempo total de execução: 30.84 segundos
+[TOPO] Volume estimado: 0.145985 m³
+[FACE] Volume estimado: 0.129467 m³
+[MÉDIA] Volume final estimado: 0.137726 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7197 pontos.
+Tempo total de execução: 31.46 segundos
+[TOPO] Volume estimado: 0.148020 m³
+[FACE] Volume estimado: 0.128452 m³
+[MÉDIA] Volume final estimado: 0.138236 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7282 pontos.
+Tempo total de execução: 32.10 segundos
+[TOPO] Volume estimado: 0.148368 m³
+[FACE] Volume estimado: 0.128464 m³
+[MÉDIA] Volume final estimado: 0.138416 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7349 pontos.
+Tempo total de execução: 32.73 segundos
+[TOPO] Volume estimado: 0.148004 m³
+[FACE] Volume estimado: 0.128557 m³
+[MÉDIA] Volume final estimado: 0.138281 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7412 pontos.
+Tempo total de execução: 33.37 segundos
+[TOPO] Volume estimado: 0.147988 m³
+[FACE] Volume estimado: 0.128800 m³
+[MÉDIA] Volume final estimado: 0.138394 m³
+Iniciando detecção do objeto completo com Voxelization...
+8 clusters encontrados.
+Objeto identificado com 7472 pontos.
+Tempo total de execução: 34.02 segundos
+[TOPO] Volume estimado: 0.148198 m³
+[FACE] Volume estimado: 0.128640 m³
+[MÉDIA] Volume final estimado: 0.138419 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7562 pontos.
+Tempo total de execução: 34.67 segundos
+[TOPO] Volume estimado: 0.148835 m³
+[FACE] Volume estimado: 0.128782 m³
+[MÉDIA] Volume final estimado: 0.138808 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7619 pontos.
+Tempo total de execução: 35.34 segundos
+[TOPO] Volume estimado: 0.148850 m³
+[FACE] Volume estimado: 0.128754 m³
+[MÉDIA] Volume final estimado: 0.138802 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7708 pontos.
+Tempo total de execução: 36.03 segundos
+[TOPO] Volume estimado: 0.149758 m³
+[FACE] Volume estimado: 0.128603 m³
+[MÉDIA] Volume final estimado: 0.139180 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7773 pontos.
+Tempo total de execução: 36.70 segundos
+[TOPO] Volume estimado: 0.150341 m³
+[FACE] Volume estimado: 0.128478 m³
+[MÉDIA] Volume final estimado: 0.139410 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7845 pontos.
+Tempo total de execução: 37.37 segundos
+[TOPO] Volume estimado: 0.151638 m³
+[FACE] Volume estimado: 0.128283 m³
+[MÉDIA] Volume final estimado: 0.139961 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7906 pontos.
+Tempo total de execução: 38.08 segundos
+[TOPO] Volume estimado: 0.151531 m³
+[FACE] Volume estimado: 0.128347 m³
+[MÉDIA] Volume final estimado: 0.139939 m³
+Iniciando detecção do objeto completo com Voxelization...
+9 clusters encontrados.
+Objeto identificado com 7962 pontos.
+Tempo total de execução: 38.79 segundos
+[TOPO] Volume estimado: 0.151551 m³
+[FACE] Volume estimado: 0.128363 m³
+[MÉDIA] Volume final estimado: 0.139957 m³
+Volume estabilizado. Prosseguindo com o cálculo e salvamento.
+Tentativa 2 concluída.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+0 clusters encontrados.
+Nenhum cluster encontrado.
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+7 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+7 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Nenhum cluster com tamanho suficiente.
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 786 pontos.
+Tempo total de execução: 2.27 segundos
+[TOPO] Volume estimado: 0.012971 m³
+[FACE] Volume estimado: 0.010882 m³
+[MÉDIA] Volume final estimado: 0.011926 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 892 pontos.
+Tempo total de execução: 2.38 segundos
+[TOPO] Volume estimado: 0.013973 m³
+[FACE] Volume estimado: 0.012034 m³
+[MÉDIA] Volume final estimado: 0.013003 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1040 pontos.
+Tempo total de execução: 2.49 segundos
+[TOPO] Volume estimado: 0.024288 m³
+[FACE] Volume estimado: 0.021132 m³
+[MÉDIA] Volume final estimado: 0.022710 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 1133 pontos.
+Tempo total de execução: 2.62 segundos
+[TOPO] Volume estimado: 0.020266 m³
+[FACE] Volume estimado: 0.022908 m³
+[MÉDIA] Volume final estimado: 0.021587 m³
+Iniciando detecção do objeto completo com Voxelization...
+5 clusters encontrados.
+Objeto identificado com 1240 pontos.
+Tempo total de execução: 2.74 segundos
+[TOPO] Volume estimado: 0.027143 m³
+[FACE] Volume estimado: 0.026174 m³
+[MÉDIA] Volume final estimado: 0.026658 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1349 pontos.
+Tempo total de execução: 2.88 segundos
+[TOPO] Volume estimado: 0.035185 m³
+[FACE] Volume estimado: 0.028059 m³
+[MÉDIA] Volume final estimado: 0.031622 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1453 pontos.
+Tempo total de execução: 3.02 segundos
+[TOPO] Volume estimado: 0.037753 m³
+[FACE] Volume estimado: 0.034566 m³
+[MÉDIA] Volume final estimado: 0.036160 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1576 pontos.
+Tempo total de execução: 3.17 segundos
+[TOPO] Volume estimado: 0.040260 m³
+[FACE] Volume estimado: 0.043727 m³
+[MÉDIA] Volume final estimado: 0.041994 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1633 pontos.
+Tempo total de execução: 3.33 segundos
+[TOPO] Volume estimado: 0.040608 m³
+[FACE] Volume estimado: 0.044754 m³
+[MÉDIA] Volume final estimado: 0.042681 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1741 pontos.
+Tempo total de execução: 3.49 segundos
+[TOPO] Volume estimado: 0.051804 m³
+[FACE] Volume estimado: 0.052765 m³
+[MÉDIA] Volume final estimado: 0.052285 m³
+Iniciando detecção do objeto completo com Voxelization...
+4 clusters encontrados.
+Objeto identificado com 1818 pontos.
+Tempo total de execução: 3.65 segundos
+[TOPO] Volume estimado: 0.051478 m³
+[FACE] Volume estimado: 0.055147 m³
+[MÉDIA] Volume final estimado: 0.053313 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 1994 pontos.
+Tempo total de execução: 3.82 segundos
+[TOPO] Volume estimado: 0.054917 m³
+[FACE] Volume estimado: 0.057340 m³
+[MÉDIA] Volume final estimado: 0.056128 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2080 pontos.
+Tempo total de execução: 3.99 segundos
+[TOPO] Volume estimado: 0.060357 m³
+[FACE] Volume estimado: 0.058773 m³
+[MÉDIA] Volume final estimado: 0.059565 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2159 pontos.
+Tempo total de execução: 4.18 segundos
+[TOPO] Volume estimado: 0.062070 m³
+[FACE] Volume estimado: 0.061172 m³
+[MÉDIA] Volume final estimado: 0.061621 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2223 pontos.
+Tempo total de execução: 4.36 segundos
+[TOPO] Volume estimado: 0.062117 m³
+[FACE] Volume estimado: 0.061150 m³
+[MÉDIA] Volume final estimado: 0.061633 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2297 pontos.
+Tempo total de execução: 4.55 segundos
+[TOPO] Volume estimado: 0.067719 m³
+[FACE] Volume estimado: 0.062558 m³
+[MÉDIA] Volume final estimado: 0.065138 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2387 pontos.
+Tempo total de execução: 4.74 segundos
+[TOPO] Volume estimado: 0.069281 m³
+[FACE] Volume estimado: 0.062657 m³
+[MÉDIA] Volume final estimado: 0.065969 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2453 pontos.
+Tempo total de execução: 4.95 segundos
+[TOPO] Volume estimado: 0.069873 m³
+[FACE] Volume estimado: 0.063381 m³
+[MÉDIA] Volume final estimado: 0.066627 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2511 pontos.
+Tempo total de execução: 5.16 segundos
+[TOPO] Volume estimado: 0.070299 m³
+[FACE] Volume estimado: 0.063704 m³
+[MÉDIA] Volume final estimado: 0.067001 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2576 pontos.
+Tempo total de execução: 5.37 segundos
+[TOPO] Volume estimado: 0.070493 m³
+[FACE] Volume estimado: 0.064834 m³
+[MÉDIA] Volume final estimado: 0.067664 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2640 pontos.
+Tempo total de execução: 5.59 segundos
+[TOPO] Volume estimado: 0.073111 m³
+[FACE] Volume estimado: 0.066307 m³
+[MÉDIA] Volume final estimado: 0.069709 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2702 pontos.
+Tempo total de execução: 5.81 segundos
+[TOPO] Volume estimado: 0.073699 m³
+[FACE] Volume estimado: 0.067350 m³
+[MÉDIA] Volume final estimado: 0.070524 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2758 pontos.
+Tempo total de execução: 6.04 segundos
+[TOPO] Volume estimado: 0.073672 m³
+[FACE] Volume estimado: 0.068223 m³
+[MÉDIA] Volume final estimado: 0.070948 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2809 pontos.
+Tempo total de execução: 6.28 segundos
+[TOPO] Volume estimado: 0.074155 m³
+[FACE] Volume estimado: 0.068316 m³
+[MÉDIA] Volume final estimado: 0.071235 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2864 pontos.
+Tempo total de execução: 6.51 segundos
+[TOPO] Volume estimado: 0.074613 m³
+[FACE] Volume estimado: 0.068817 m³
+[MÉDIA] Volume final estimado: 0.071715 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 2945 pontos.
+Tempo total de execução: 6.76 segundos
+[TOPO] Volume estimado: 0.075032 m³
+[FACE] Volume estimado: 0.069149 m³
+[MÉDIA] Volume final estimado: 0.072091 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3009 pontos.
+Tempo total de execução: 7.02 segundos
+[TOPO] Volume estimado: 0.075570 m³
+[FACE] Volume estimado: 0.069154 m³
+[MÉDIA] Volume final estimado: 0.072362 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3099 pontos.
+Tempo total de execução: 7.28 segundos
+[TOPO] Volume estimado: 0.077599 m³
+[FACE] Volume estimado: 0.069695 m³
+[MÉDIA] Volume final estimado: 0.073647 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3155 pontos.
+Tempo total de execução: 7.53 segundos
+[TOPO] Volume estimado: 0.077591 m³
+[FACE] Volume estimado: 0.069879 m³
+[MÉDIA] Volume final estimado: 0.073735 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3235 pontos.
+Tempo total de execução: 7.80 segundos
+[TOPO] Volume estimado: 0.078686 m³
+[FACE] Volume estimado: 0.069928 m³
+[MÉDIA] Volume final estimado: 0.074307 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3297 pontos.
+Tempo total de execução: 8.10 segundos
+[TOPO] Volume estimado: 0.079251 m³
+[FACE] Volume estimado: 0.070178 m³
+[MÉDIA] Volume final estimado: 0.074715 m³
+Iniciando detecção do objeto completo com Voxelization...
+2 clusters encontrados.
+Objeto identificado com 3384 pontos.
+Tempo total de execução: 8.37 segundos
+[TOPO] Volume estimado: 0.079811 m³
+[FACE] Volume estimado: 0.070111 m³
+[MÉDIA] Volume final estimado: 0.074961 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 3475 pontos.
+Tempo total de execução: 8.67 segundos
+[TOPO] Volume estimado: 0.079854 m³
+[FACE] Volume estimado: 0.070267 m³
+[MÉDIA] Volume final estimado: 0.075061 m³
+Iniciando detecção do objeto completo com Voxelization...
+3 clusters encontrados.
+Objeto identificado com 3531 pontos.
+Tempo total de execução: 8.96 segundos
+[TOPO] Volume estimado: 0.080189 m³
