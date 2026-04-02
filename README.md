@@ -18,24 +18,25 @@ The system is composed of a processing unit and a 3D LiDAR sensor device:
 ## 🛠 Prerequisites & Installation
 
 1. **Vision & Processing (PC 1)**
-   - Install [Ubuntu 22.04](https://www.releases.ubuntu.com/focal/)
+   - Install [Ubuntu 20.04](https://www.releases.ubuntu.com/focal/)
    - Install [ROS2 Foxy](https://docs.ros.org/en/foxy/Installation.html)
    - Install Unitree [LiDAR SDK ROS2](https://github.com/unitreerobotics/unilidar_sdk/blob/main/unitree_lidar_ros2/src/unitree_lidar_ros2/README.md)
-   - Download the folders "Comparisom_Three_Methods" and "Automatic_Volume_Estimation" from this repository
+   - Download the folders "*Comparisom_Three_Methods*" and "*Automatic_Volume_Estimation*" from this repository
    - Install Open3D: `pip3 install open3d`.
    - Connect via Serial-to-USB to the 4D LiDAR L1.
   
 2. **Platform of tests**
    - If you wish to *compare the three volume estimation methods*, prepare the testing platform according to the image of the experimental environment in step 1. Also prepare the packages whose volumes are to be measured, as described in the article and shown in the image with the test packages from step 1.
-   - 
+     
    - **Image of Experimental Enviroment stage 1 and the packages used in tests**
 
     ![Experimental Enviroment](Figure_Stage_1/Enviroment_experimental_stage_1.jpeg)
    
    - If you wish to *test the automatic volume estimation script*, prepare the test platform according to the image of the experimental environment in step 2. Also prepare the packages whose volumes are to be measured, as described in the article and shown in the image with the test packages from step 2.
-   - **Image of Experimental Enviroment stage 2**
+     
+   - **Image of Experimental Enviroment stage 2 and the packages used in tests**
 
-    ![Experimental Enviroment](Figure_Stage_2/Enviroment_experimental_stage 2 .png)
+    ![Experimental Enviroment](Figure_Stage_2/Enviroment_experimental_stage_2.png)
 
 ---
 
@@ -52,14 +53,18 @@ To ensure the handshakes between nodes occur correctly, follow this specific lau
     ros2 launch unitree_lidar_ros2 launch.py
     ```
   
-  - In another Terminal, run the volume estimation script that activates the ROS2 node for point cloud processing:
+  - Place the box to be measured on the platform under the sensor. In another Terminal, run the volume estimation script that activates the ROS2 node for point cloud processing:
     ```
     cd Comparisom_Three_Methods
     python3 VolumeEstimationBoundingBox.py
-    or
-    VolumeEstimationConvexHull.py
-    or
-    VolumeEstimationVoxelization.py    
+    ```
+  - or
+    ```
+    python3 VolumeEstimationConvexHull.py
+    ```
+  - or
+    ```
+    python3 VolumeEstimationVoxelization.py    
     ```
   ### If you want to estimate the volume automatically, as in step 2 of the article, do the following:
    - Connect the 4D LiDAR L1 sensor via USB. In a Terminal run lidar driver node ROS2:
@@ -68,7 +73,7 @@ To ensure the handshakes between nodes occur correctly, follow this specific lau
       source install/setup.bash
       ros2 launch unitree_lidar_ros2 launch.py
       ```
-   - In another Terminal, run the volume estimation script that activates the ROS2 node for point cloud processing:
+   - Place the box to be measured on the platform under the sensor. In another Terminal, run the volume estimation script that activates the ROS2 node for point cloud processing:
       ```
       cd Automatic_Volume_Estimation
       python3 automaticVolumeEstimationVoxelization_Hibrid.py
