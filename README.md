@@ -30,12 +30,12 @@ The system is composed of a processing unit and a 3D LiDAR sensor device:
    - 
    - **Image of Experimental Enviroment stage 1 and the packages used in tests**
 
-    ![Experimental Enviroment](Figure_Stage_1/Enviroment_experimental_stage 1.jpeg)
+    ![Experimental Enviroment](Figure_Stage_1/Enviroment_experimental_stage_1.jpeg)
    
    - If you wish to *test the automatic volume estimation script*, prepare the test platform according to the image of the experimental environment in step 2. Also prepare the packages whose volumes are to be measured, as described in the article and shown in the image with the test packages from step 2.
    - **Image of Experimental Enviroment stage 2**
 
-    ![Experimental Enviroment](Figure_Stage_2/Enviroment experimental of the stage 2 .png)
+    ![Experimental Enviroment](Figure_Stage_2/Enviroment_experimental_stage 2 .png)
 
 ---
 
