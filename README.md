@@ -1,14 +1,6 @@
 # Two-Stage 3D Volume Estimation from LiDAR Point Clouds
 Repository with source code, experimental datasets, and ROS bag files for a volume estimation study using 3D point clouds from LiDAR. It features a comparative analysis of Bounding Box, Convex Hull, and Voxelization, plus an automatic voxel-based algorithm for complex geometries and partial occlusions.
 
--**Image of Experimental Enviroment stage 1**
-
-
-
--**Image of Experimental Enviroment stage 2**
-
-
-
 ---
 
 ## 🏗 System Architecture
@@ -35,7 +27,15 @@ The system is composed of a processing unit and a 3D LiDAR sensor device:
   
 2. **Platform of tests**
    - If you wish to *compare the three volume estimation methods*, prepare the testing platform according to the image of the experimental environment in step 1. Also prepare the packages whose volumes are to be measured, as described in the article and shown in the image with the test packages from step 1.
+   - 
+   - **Image of Experimental Enviroment stage 1 and the packages used in tests**
+
+    ![Experimental Enviroment](Figure_Stage_1/Enviroment_experimental_stage 1.jpeg)
+   
    - If you wish to *test the automatic volume estimation script*, prepare the test platform according to the image of the experimental environment in step 2. Also prepare the packages whose volumes are to be measured, as described in the article and shown in the image with the test packages from step 2.
+   - **Image of Experimental Enviroment stage 2**
+
+    ![Experimental Enviroment](Figure_Stage_2/Enviroment experimental of the stage 2 .png)
 
 ---
 
